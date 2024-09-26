@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Xổ số - Cơ hội trúng thưởng dễ dàng và tiện lợi trực tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Xổ số <http://prokan.vn>`_ là các nền tảng cung cấp dịch vụ dự đoán kết quả xổ số trực tuyến, mang đến cho người chơi cơ hội tham gia vào nhiều loại hình xổ số khác nhau mà không cần đến điểm bán vé truyền thống. Xổ số thường cung cấp đa dạng các hình thức xổ số như xổ số kiến thiết, xổ số nhanh, và các trò chơi dựa trên kết quả xổ số từ nhiều quốc gia. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện hiện đại, dễ sử dụng, cùng các tính năng như đặt cược trực tuyến, rút tiền nhanh chóng và hỗ trợ khách hàng 24/7, xổ số không chỉ tạo ra sự tiện lợi mà còn mang đến những cơ hội trúng thưởng lớn cho người chơi. Nhờ tính minh bạch và công nghệ bảo mật cao, xổ số ngày càng thu hút sự quan tâm của cộng đồng đam mê xổ số trên toàn cầu.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 5/5 ấp 2, Ấp 2, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0953325144. 
 
-.. toctree::
+Email: info@prokan.vn. 
 
-   usage
-   api
+Website: http://prokan.vn 
+
+#xoso #trangchuxoso #dangkyxoso #dangnhapxoso #linkxoso
